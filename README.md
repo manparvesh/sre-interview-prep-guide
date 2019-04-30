@@ -151,3 +151,53 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Courses
 
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
+
+# From [vorozhko/site-reliability-engineer-guide](https://github.com/vorozhko/site-reliability-engineer-guide) 
+
+## Research papers
+
+- [ ] [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
+- [ ] [MapReduce: simplified data processing on large clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [ ] [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- [ ] [On designing and deploying internet-scale services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
+- [ ] [Mesos: a platform for fine-grained resource sharing in the data center](https://cs.stanford.edu/~matei/papers/2011/nsdi_mesos.pdf)
+- [ ] [Google: Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840)
+
+## Technologies
+
+- [ ] [Aurora](http://aurora.apache.org/)
+- [ ] [Docker](https://docs.docker.com/)
+- [ ] [Fluentd](http://www.fluentd.org/)
+- [ ] [ElasticSearch](https://www.elastic.co/products/elasticsearch)
+- [ ] [GCE](https://cloud.google.com/compute/docs/)
+- [ ] [Hadoop](http://hadoop.apache.org/)
+- [ ] [Kubernetes](http://kubernetes.io)
+- [ ] [Mesos](http://mesos.apache.org/)
+- [ ] [Kernel Based Virtual Machine](http://www.linux-kvm.org/page/Documents)
+- [ ] [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+- [ ] [Spark](http://spark.apache.org/)
+- [ ] [VMWare](http://www.vmware.com/products/vcloud-suite.html)
+
+## Networking
+
+- [ ] [Computer networking research papers](https://know-your-networks.blogspot.de/2017/02/must-read-computer-networking-research.html)
+- [ ] [High Performance Browser Networking](https://hpbn.co/)
+
+## Monitoring and alerting
+- [ ] [Prometheus](https://prometheus.io/)
+- [ ] [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU)
+
+## SRE best practice
+
+- [ ] [Software engineering at Google](https://github.com/vorozhko/site-reliability-engineer-guide/blob/master/software-engeneering-at-google.pdf)
+- [ ] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
+- [ ] [How Container Clusters Like Kubernetes Change Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/burns)
+- [ ] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
+- [ ] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
+- [ ] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
+- [ ] [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
+- [ ] [Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories](http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html)
+- [ ] [Netflix: 190 Countries and 5 CORE SREs](https://www.usenix.org/conference/srecon16/program/presentation/horowitz)
+- [ ] [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
+- [ ] [Notes on SRE book](http://danluu.com/google-sre-book/)
+- [ ] [SYSADMIN (Un)Reliability Budgets](https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf)
